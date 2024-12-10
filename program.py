@@ -1,8 +1,8 @@
 """program module"""
 
+
 def main(*args):
-
-
+    """main method"""
 
 
 def get_data(filename):
